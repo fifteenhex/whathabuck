@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name 3x3pot)(type KiCad)(uri ${KIPRJMOD}/footprints/3x3pot.pretty)(options "")(descr ""))
+)
